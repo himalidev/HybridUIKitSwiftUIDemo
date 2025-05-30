@@ -52,13 +52,6 @@ This demo follows a **hybrid MVVM architecture**:
 
 ---
 
-## 🧑‍💻 Author
-
-Created by **Himali Marasinghe**  
-For learning, onboarding, and modern iOS architecture examples.
-
----
-
 ## 📥 Clone This Repo
 
 To clone this project locally:
@@ -68,6 +61,12 @@ git clone https://github.com/himalidev/HybridUIKitSwiftUIDemo.git
 cd HybridUIKitSwiftUIDemo
 open HybridUIKitSwiftUIDemo.xcodeproj
 ```
+
+---
+
+## 🧑‍💻 Author
+
+Created by **Himali Marasinghe**  
 
 ---
 
